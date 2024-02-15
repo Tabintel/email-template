@@ -1,0 +1,18 @@
+------------------
+Hi Ekemini Samuel,
+------------------
+
+Welcome to Tribal! on board!
+
+* Firstname: Ekemini
+* Lastname: Samuel
+* Birthday: 01/01/1983
+
+To get started with Tribal, please click here: https://hermes-example.com/confirm?token=d9729feb74992cc3482b350163a1a010
+
+Need help, or have questions? Just reply to this email, we'd love to help.
+
+Yours truly,
+Hermes - https://example-hermes.com/
+
+Copyright © 2020 Hermes. All rights reserved.
